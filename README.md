@@ -1,4 +1,4 @@
-# RECETAS DE ODIN
-Este es un proyecto, sobre una pagina, en la que en la pagina principal estaran imagenes de algunas platillos con un link el cual te llevara a una pagina, la cual tendra la receta de dicho platillo.
+# Odin Recipes
 
-Con este proyecto se demostrara las habilidades adquiridas en The Odin Projecto
+## Description
+This is a project, about a page, in which in the main page there will be images of some dishes with a link which will take you to a page, which will have the recipe of that dish, this project will demonstrate the skills acquired in The Odin Project.
