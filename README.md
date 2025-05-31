@@ -1,4 +1,4 @@
-# RECETAS DE ODIN
-Este es un proyecto, sobre una pagina, en la que en la pagina principal estaran imagenes de algunas platillos con un link el cual te llevara a una pagina, la cual tendra la receta de dicho platillo.
+# Recetas de Odin
+Este es un trabajo que consiste en una página web, donde en la sección principal habrá enlaces cada una enlazada a otra página que contendrá la imagen de la receta correspondiente.
 
-Con este proyecto se demostrara las habilidades adquiridas en The Odin Projecto
+A través de este proyecto se evidenciarán las destrezas obtenidas en The Odin Project.
